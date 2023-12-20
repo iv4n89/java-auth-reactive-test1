@@ -27,3 +27,5 @@ m
 =src/main/java/com/ddd/auth/dto/AuthenticationResponseDto.java,a/b/ab6128d5331b69604a5e0cd2865aad75718ccea4
 l
 <src/main/java/com/ddd/auth/dto/AuthenticationRequestDto.java,e/c/ec7d954b49ce2fdd00a2679c3adb37ae818777d9
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
