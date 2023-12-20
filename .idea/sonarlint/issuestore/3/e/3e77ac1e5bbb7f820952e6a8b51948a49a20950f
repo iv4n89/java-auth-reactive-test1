@@ -1,0 +1,6 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(«¯¹ıÿÿÿÿ8ïóøËÈ1
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(«¯¹ıÿÿÿÿ8ùóøËÈ1
+m
+java:S1128"KRemove this unused import 'org.springframework.security.config.Customizer'.(Ïóœ¬ùÿÿÿÿ8ıóøËÈ1

@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: auth-service
+
+server:
+    port: 8091
+
+config:
+  webclient:
+    baseurl:
+      user: http://localhost:8082/user
+  security:
+    jwt:
+      secret: Yw9Ll6viEHhdsgNcHCsJOlSqtN5e7u8prpfEoF6wsM8t9RXQLD56FKOkXxU1CvuB27deUQs0NfXqMPYzDhiMaOP3UWR0OfshniA8wNs5hMhQIBrOXPRdaPslHVpqZovym6jVcAW5LQ4tYjNpItydgnRZ1x8tFw5r5KKNJVcI61vEXi4j5oyb0RsNyTRtBwrL2Du06v0uW7SqiSmbEbtGr8p9II3CXJNKe29qqnyOnJHPYboc7gr2hvh7jyX6pfI5
